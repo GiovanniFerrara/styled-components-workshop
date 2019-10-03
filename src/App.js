@@ -13,7 +13,7 @@ const Container = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 50vh;
+  height: 50%;
   width: 50%;
   background: #f00;
   color: #fff;
